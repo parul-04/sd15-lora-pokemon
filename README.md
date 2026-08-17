@@ -46,7 +46,7 @@ This project uses **Low-Rank Adaptation (LoRA)** to efficiently fine-tune Stable
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/sd15-lora-pokemon.git
+git clone https://github.com/parul-04/sd15-lora-pokemon
 cd sd15-lora-pokemon
 pip install -r requirements.txt
 ```
