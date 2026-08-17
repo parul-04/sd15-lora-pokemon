@@ -1,0 +1,14 @@
+*.png
+*.jpg
+*.safetensors
+*.pt
+*.pth
+lora-r*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
+.cache/
+data/
